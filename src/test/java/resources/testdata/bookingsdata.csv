@@ -1,0 +1,11 @@
+FIRSTNAME,LASTNAME,TOTALPRICE,DEPOSITPAID,CHECKIN,CHECKOUT,DATE1,DATE2,ADDITIONALNEEDS
+Bev,Toulamain,$645.59,Yes,Check in,Check out,2/21/2022,2/23/2023,Tea
+Rhodia,Al Hirsi,$710.77,No,Check in,Check out,3/23/2022,12/8/2022,Breakfast
+Arline,O' Hanvey,$710.18,No,Check in,Check out,1/6/2023,2/11/2023,Breakfast
+Fulvia,Mc Meekan,$758.98,Yes,Check in,Check out,6/7/2022,3/26/2023,Dinner
+Dredi,Shipley,$603.40,No,Check in,Check out,12/16/2022,4/20/2023,Breakfast
+Susi,Badger,$413.01,No,Check in,Check out,8/18/2022,2/6/2023,Tea
+Ethelin,Hallut,$770.21,Yes,Check in,Check out,7/1/2022,5/7/2022,Breakfast
+Sindee,Cortin,$845.49,No,Check in,Check out,6/17/2022,4/11/2022,Breakfast
+Anica,Crackel,$433.38,No,Check in,Check out,12/21/2022,7/31/2022,Lunch
+Dorthea,MacIlriach,$845.16,Yes,Check in,Check out,11/18/2022,4/28/2022,Tea
